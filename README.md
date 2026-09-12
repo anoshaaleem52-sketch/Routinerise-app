@@ -2,7 +2,7 @@
 
 > **Dynamic, Client-Side Daily Planner**  
 > *Engineered to handle real-world schedule volatility through zero-latency automatic day rebuilds, natural language task parsing, and forgiving streak tracking.*
-
+> **Live Production Demo:** [anoshaaleem52-sketch.github.io/Routinerise-app](https://anoshaaleem52-sketch.github.io/Routinerise-app/)
 ---
 
 ## 📌 Executive Summary
